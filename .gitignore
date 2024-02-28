@@ -1,0 +1,6 @@
+Desktop Application/.idea/
+Desktop Application/.vscode/
+Desktop Application/__pycache__/
+Desktop Application/build/
+Desktop Application/cert.pem
+Desktop Application/key.pem
